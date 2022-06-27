@@ -17,4 +17,9 @@ const img2 = document.createElement("img");
 img2.src = url2;
 document.body.appendChild(img2);
 
-import "./assets/fonts/iconfont.css"
+import "./assets/fonts/iconfont.css";
+
+const getInfo = () => {
+  console.log("郭统彪");
+};
+getInfo();

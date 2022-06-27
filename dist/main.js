@@ -9,6 +9,37 @@
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
+/***/ "./src/banner.js":
+/*!***********************!*\
+  !*** ./src/banner.js ***!
+  \***********************/
+/***/ (() => {
+
+eval("console.log(\"banner\");\n\n//# sourceURL=webpack://vue01/./src/banner.js?");
+
+/***/ }),
+
+/***/ "./src/index.js":
+/*!**********************!*\
+  !*** ./src/index.js ***!
+  \**********************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _banner_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./banner.js */ \"./src/banner.js\");\n/* harmony import */ var _banner_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_banner_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _tab_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./tab.js */ \"./src/tab.js\");\n/* harmony import */ var _tab_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_tab_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var jquery__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! jquery */ \"./node_modules/jquery/dist/jquery.js\");\n/* harmony import */ var jquery__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(jquery__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _styles_index_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./styles/index.css */ \"./src/styles/index.css\");\n/* harmony import */ var _styles_index_less__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./styles/index.less */ \"./src/styles/index.less\");\n/* harmony import */ var _assets_1_gif__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./assets/1.gif */ \"./src/assets/1.gif\");\n/* harmony import */ var _assets_logo_small_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./assets/logo_small.png */ \"./src/assets/logo_small.png\");\n/* harmony import */ var _assets_fonts_iconfont_css__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./assets/fonts/iconfont.css */ \"./src/assets/fonts/iconfont.css\");\n\n\n\njquery__WEBPACK_IMPORTED_MODULE_2___default()(\"#banner\").css({\n  backgroundColor: \"red\"\n});\n\n\n\nvar img1 = document.createElement(\"img\");\nimg1.src = _assets_1_gif__WEBPACK_IMPORTED_MODULE_5__[\"default\"];\ndocument.body.appendChild(img1);\n\nvar img2 = document.createElement(\"img\");\nimg2.src = _assets_logo_small_png__WEBPACK_IMPORTED_MODULE_6__[\"default\"];\ndocument.body.appendChild(img2);\n\n\nvar getInfo = function getInfo() {\n  console.log(\"郭统彪\");\n};\n\ngetInfo();\n\n//# sourceURL=webpack://vue01/./src/index.js?");
+
+/***/ }),
+
+/***/ "./src/tab.js":
+/*!********************!*\
+  !*** ./src/tab.js ***!
+  \********************/
+/***/ (() => {
+
+eval("console.log(\"tab\");\n\n//# sourceURL=webpack://vue01/./src/tab.js?");
+
+/***/ }),
+
 /***/ "./node_modules/css-loader/dist/cjs.js!./node_modules/less-loader/dist/cjs.js!./src/styles/index.less":
 /*!************************************************************************************************************!*\
   !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/less-loader/dist/cjs.js!./src/styles/index.less ***!
@@ -203,37 +234,6 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 "use strict";
 eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (\"data:image/png;base64,AAABAAEAEBAAAAAAAABoAwAAFgAAACgAAAAQAAAAIAAAAAEAGAAAAAAAQAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsXQasXQYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsXQasXQYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsXQasXQYAAAAAAAAAAACsXQasXQasXQasXQYAAAAAAAAAAAAAAAAAAAAAAAAAAACsXQasXQYAAAAAAAAAAAAAAAAAAACsXQasXQasXQYAAAAAAAAAAAAAAAAAAAAAAACsXQasXQYAAAAAAAATAOYTAOYAAAAAAACsXQasXQasXQYAAAAAAAAAAAAAAAAAAACsXQasXQYAAAAAAAATAOYTAOYTAOYTAOYAAACsXQasXQasXQYAAAAAAAAAAAAAAACsXQasXQasXQYAAAAAAAATAOYTAOYTAOYAAAAAAACsXQasXQYAAAAAAAAAAAAAAAAAAACsXQasXQasXQYAAAAAAAATAOYTAOYTAOYAAAAAAACsXQasXQYAAAAAAAAAAAAAAAAAAACsXQasXQasXQYAAAAAAAAAAAAAAAAAAAAAAACsXQasXQYAAAAAAAAAAAAAAAAAAAAAAACsXQasXQasXQasXQasXQasXQasXQasXQasXQYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsXQasXQasXQasXQasXQasXQasXQYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//wAA//8AAP//AAD+fwAA/n8AAM4fAADPjwAAzMcAAMwjAADGMwAA4xkAAPH5AAD4AwAA/gMAAP//AAD//wAA\");\n\n//# sourceURL=webpack://vue01/./src/assets/logo_small.png?");
-
-/***/ }),
-
-/***/ "./src/banner.js":
-/*!***********************!*\
-  !*** ./src/banner.js ***!
-  \***********************/
-/***/ (() => {
-
-eval("console.log(\"banner\");\n\n//# sourceURL=webpack://vue01/./src/banner.js?");
-
-/***/ }),
-
-/***/ "./src/index.js":
-/*!**********************!*\
-  !*** ./src/index.js ***!
-  \**********************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _banner_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./banner.js */ \"./src/banner.js\");\n/* harmony import */ var _banner_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_banner_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _tab_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./tab.js */ \"./src/tab.js\");\n/* harmony import */ var _tab_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_tab_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var jquery__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! jquery */ \"./node_modules/jquery/dist/jquery.js\");\n/* harmony import */ var jquery__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(jquery__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _styles_index_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./styles/index.css */ \"./src/styles/index.css\");\n/* harmony import */ var _styles_index_less__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./styles/index.less */ \"./src/styles/index.less\");\n/* harmony import */ var _assets_1_gif__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./assets/1.gif */ \"./src/assets/1.gif\");\n/* harmony import */ var _assets_logo_small_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./assets/logo_small.png */ \"./src/assets/logo_small.png\");\n/* harmony import */ var _assets_fonts_iconfont_css__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./assets/fonts/iconfont.css */ \"./src/assets/fonts/iconfont.css\");\n\r\n\r\n\r\njquery__WEBPACK_IMPORTED_MODULE_2___default()(\"#banner\").css({\r\n  backgroundColor: \"red\",\r\n});\r\n\r\n\r\n\r\n\r\nconst img1 = document.createElement(\"img\");\r\nimg1.src = _assets_1_gif__WEBPACK_IMPORTED_MODULE_5__[\"default\"];\r\ndocument.body.appendChild(img1);\r\n\r\n\r\nconst img2 = document.createElement(\"img\");\r\nimg2.src = _assets_logo_small_png__WEBPACK_IMPORTED_MODULE_6__[\"default\"];\r\ndocument.body.appendChild(img2);\r\n\r\n\r\n\n\n//# sourceURL=webpack://vue01/./src/index.js?");
-
-/***/ }),
-
-/***/ "./src/tab.js":
-/*!********************!*\
-  !*** ./src/tab.js ***!
-  \********************/
-/***/ (() => {
-
-eval("console.log(\"tab\");\r\n\n\n//# sourceURL=webpack://vue01/./src/tab.js?");
 
 /***/ }),
 

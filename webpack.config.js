@@ -57,6 +57,17 @@ module.exports = {
           },
         ],
       },
+      // 代码降级
+      {
+        test: /\.js$/,
+        exclude: /(node_modules)/,
+        use: {
+          loader: "babel-loader",
+          options: {
+            presets: ["@babel/preset-env"], // 预设:转码规则(用bable开发环境本来预设的)
+          },
+        },
+      },
     ],
   },
   //配置server 服务器端口和启动serve 自动打开网页

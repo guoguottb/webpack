@@ -31,6 +31,9 @@
     "webpack-dev-server": "^4.9.2"
   },
   "dependencies": {
+    "@babel/core": "^7.18.5",
+    "@babel/preset-env": "^7.18.2",
+    "babel-loader": "^8.2.5",
     "jquery": "^3.6.0"
   }
 }
