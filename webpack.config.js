@@ -25,7 +25,20 @@ module.exports = {
       // less 文件的配置
       {
         test: /\.less$/,
-        use: ["style-loader", "css-loader","less-loader"],
+        use: ["style-loader", "css-loader", "less-loader"],
+      },
+      // 配置解析图片的
+      {
+        test: /\.(png|jpg|gif|jpeg)$/i,
+        use: [
+          {
+            //匹配文件，尝试转为base64位字符串打包到js中
+            loader: "url-loader",
+            options: {
+              limit: 8 * 1024,
+            },
+          },
+        ],
       },
     ],
   },

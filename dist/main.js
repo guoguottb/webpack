@@ -27,7 +27,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n// Imports\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \".banner {\\r\\n    width: 100px;\\r\\n    height: 100px;\\r\\n    background-color: hotpink;\\r\\n  }\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://vue01/./src/styles/index.css?./node_modules/css-loader/dist/cjs.js");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n// Imports\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \".banner {\\r\\n    width: 100px;\\r\\n    height: 100px;\\r\\n    background-color: hotpink;\\r\\n  }\\r\\n\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://vue01/./src/styles/index.css?./node_modules/css-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -151,6 +151,28 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleElem
 
 /***/ }),
 
+/***/ "./src/assets/1.gif":
+/*!**************************!*\
+  !*** ./src/assets/1.gif ***!
+  \**************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"37ece4fa2c916b8e9170f34c75a6a7d9.gif\");\n\n//# sourceURL=webpack://vue01/./src/assets/1.gif?");
+
+/***/ }),
+
+/***/ "./src/assets/logo_small.png":
+/*!***********************************!*\
+  !*** ./src/assets/logo_small.png ***!
+  \***********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (\"data:image/png;base64,AAABAAEAEBAAAAAAAABoAwAAFgAAACgAAAAQAAAAIAAAAAEAGAAAAAAAQAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsXQasXQYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsXQasXQYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsXQasXQYAAAAAAAAAAACsXQasXQasXQasXQYAAAAAAAAAAAAAAAAAAAAAAAAAAACsXQasXQYAAAAAAAAAAAAAAAAAAACsXQasXQasXQYAAAAAAAAAAAAAAAAAAAAAAACsXQasXQYAAAAAAAATAOYTAOYAAAAAAACsXQasXQasXQYAAAAAAAAAAAAAAAAAAACsXQasXQYAAAAAAAATAOYTAOYTAOYTAOYAAACsXQasXQasXQYAAAAAAAAAAAAAAACsXQasXQasXQYAAAAAAAATAOYTAOYTAOYAAAAAAACsXQasXQYAAAAAAAAAAAAAAAAAAACsXQasXQasXQYAAAAAAAATAOYTAOYTAOYAAAAAAACsXQasXQYAAAAAAAAAAAAAAAAAAACsXQasXQasXQYAAAAAAAAAAAAAAAAAAAAAAACsXQasXQYAAAAAAAAAAAAAAAAAAAAAAACsXQasXQasXQasXQasXQasXQasXQasXQasXQYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsXQasXQasXQasXQasXQasXQasXQYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//wAA//8AAP//AAD+fwAA/n8AAM4fAADPjwAAzMcAAMwjAADGMwAA4xkAAPH5AAD4AwAA/gMAAP//AAD//wAA\");\n\n//# sourceURL=webpack://vue01/./src/assets/logo_small.png?");
+
+/***/ }),
+
 /***/ "./src/banner.js":
 /*!***********************!*\
   !*** ./src/banner.js ***!
@@ -168,7 +190,7 @@ eval("console.log(\"banner\");\n\n//# sourceURL=webpack://vue01/./src/banner.js?
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _banner_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./banner.js */ \"./src/banner.js\");\n/* harmony import */ var _banner_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_banner_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _tab_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./tab.js */ \"./src/tab.js\");\n/* harmony import */ var _tab_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_tab_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var jquery__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! jquery */ \"./node_modules/jquery/dist/jquery.js\");\n/* harmony import */ var jquery__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(jquery__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _styles_index_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./styles/index.css */ \"./src/styles/index.css\");\n/* harmony import */ var _styles_index_less__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./styles/index.less */ \"./src/styles/index.less\");\n\r\n\r\n\r\njquery__WEBPACK_IMPORTED_MODULE_2___default()(\"#banner\").css({\r\n  backgroundColor: \"red\",\r\n});\r\n\r\n\n\n//# sourceURL=webpack://vue01/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _banner_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./banner.js */ \"./src/banner.js\");\n/* harmony import */ var _banner_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_banner_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _tab_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./tab.js */ \"./src/tab.js\");\n/* harmony import */ var _tab_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_tab_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var jquery__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! jquery */ \"./node_modules/jquery/dist/jquery.js\");\n/* harmony import */ var jquery__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(jquery__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _styles_index_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./styles/index.css */ \"./src/styles/index.css\");\n/* harmony import */ var _styles_index_less__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./styles/index.less */ \"./src/styles/index.less\");\n/* harmony import */ var _assets_1_gif__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./assets/1.gif */ \"./src/assets/1.gif\");\n/* harmony import */ var _assets_logo_small_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./assets/logo_small.png */ \"./src/assets/logo_small.png\");\n\r\n\r\n\r\njquery__WEBPACK_IMPORTED_MODULE_2___default()(\"#banner\").css({\r\n  backgroundColor: \"red\",\r\n});\r\n\r\n\r\n\r\n\r\nconst img1 = document.createElement(\"img\");\r\nimg1.src = _assets_1_gif__WEBPACK_IMPORTED_MODULE_5__[\"default\"];\r\ndocument.body.appendChild(img1);\r\n\r\n\r\nconst img2 = document.createElement(\"img\");\r\nimg2.src = _assets_logo_small_png__WEBPACK_IMPORTED_MODULE_6__[\"default\"];\r\ndocument.body.appendChild(img2);\r\n\n\n//# sourceURL=webpack://vue01/./src/index.js?");
 
 /***/ }),
 
@@ -233,6 +255,18 @@ eval("console.log(\"tab\");\r\n\n\n//# sourceURL=webpack://vue01/./src/tab.js?")
 /******/ 		};
 /******/ 	})();
 /******/ 	
+/******/ 	/* webpack/runtime/global */
+/******/ 	(() => {
+/******/ 		__webpack_require__.g = (function() {
+/******/ 			if (typeof globalThis === 'object') return globalThis;
+/******/ 			try {
+/******/ 				return this || new Function('return this')();
+/******/ 			} catch (e) {
+/******/ 				if (typeof window === 'object') return window;
+/******/ 			}
+/******/ 		})();
+/******/ 	})();
+/******/ 	
 /******/ 	/* webpack/runtime/hasOwnProperty shorthand */
 /******/ 	(() => {
 /******/ 		__webpack_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop))
@@ -247,6 +281,26 @@ eval("console.log(\"tab\");\r\n\n\n//# sourceURL=webpack://vue01/./src/tab.js?")
 /******/ 			}
 /******/ 			Object.defineProperty(exports, '__esModule', { value: true });
 /******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/publicPath */
+/******/ 	(() => {
+/******/ 		var scriptUrl;
+/******/ 		if (__webpack_require__.g.importScripts) scriptUrl = __webpack_require__.g.location + "";
+/******/ 		var document = __webpack_require__.g.document;
+/******/ 		if (!scriptUrl && document) {
+/******/ 			if (document.currentScript)
+/******/ 				scriptUrl = document.currentScript.src
+/******/ 			if (!scriptUrl) {
+/******/ 				var scripts = document.getElementsByTagName("script");
+/******/ 				if(scripts.length) scriptUrl = scripts[scripts.length - 1].src
+/******/ 			}
+/******/ 		}
+/******/ 		// When supporting browsers where an automatic publicPath is not supported you must specify an output.publicPath manually via configuration
+/******/ 		// or pass an empty string ("") and set the __webpack_public_path__ variable from your code to use your own logic.
+/******/ 		if (!scriptUrl) throw new Error("Automatic publicPath is not supported in this browser");
+/******/ 		scriptUrl = scriptUrl.replace(/#.*$/, "").replace(/\?.*$/, "").replace(/\/[^\/]+$/, "/");
+/******/ 		__webpack_require__.p = scriptUrl;
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/nonce */
