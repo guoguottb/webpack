@@ -17,9 +17,15 @@ module.exports = {
   module: {
     //规则是个数组 里面加对象
     rules: [
+      // css文件解析的配置
       {
         test: /\.css$/,
         use: ["style-loader", "css-loader"],
+      },
+      // less 文件的配置
+      {
+        test: /\.less$/,
+        use: ["style-loader", "css-loader","less-loader"],
       },
     ],
   },

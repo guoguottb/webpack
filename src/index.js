@@ -5,3 +5,4 @@ $("#banner").css({
   backgroundColor: "red",
 });
 import "./styles/index.css"
+import "./styles/index.less"
