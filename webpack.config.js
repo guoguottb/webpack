@@ -13,4 +13,20 @@ module.exports = {
       filename: "index.html",
     }),
   ],
+  //模块
+  module: {
+    //规则是个数组 里面加对象
+    rules: [
+      {
+        test: /\.css$/,
+        use: ["style-loader", "css-loader"],
+      },
+    ],
+  },
+  //配置server 服务器端口和启动serve 自动打开网页
+  devServer: {
+    //配置端口
+    // port: 3000,
+    open: true,
+  },
 };

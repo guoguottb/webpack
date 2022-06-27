@@ -4,3 +4,4 @@ import $ from "jquery";
 $("#banner").css({
   backgroundColor: "red",
 });
+import "./styles/index.css"
