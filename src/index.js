@@ -16,3 +16,5 @@ import url2 from "./assets/logo_small.png";
 const img2 = document.createElement("img");
 img2.src = url2;
 document.body.appendChild(img2);
+
+import "./assets/fonts/iconfont.css"
